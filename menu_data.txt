@@ -1,0 +1,10 @@
+F001,Nasi Goreng,18000.00,Makanan,Makanan
+F002,Nasi Kuah,16000.00,Makanan,Makanan
+F003,Nasi Rebus,12000.00,Makanan,Makanan
+D001,Jus Alpukat,10000.00,Minuman,Minuman
+D002,Es Lemon Tea,12000.00,Minuman,Minuman
+D003,Air Mineral,35000.00,Minuman,Minuman
+S001,Citato,10000.00,Snack,Snack
+S002,Kacang Garuda,7000.00,Snack,Snack
+S003,Kuaci,5000.00,Snack,Snack
+F004,Nasi Kukus,20000.00,Makanan,Makanan

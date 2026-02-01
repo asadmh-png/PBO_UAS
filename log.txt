@@ -1,0 +1,12 @@
+[2026-02-01 23:12:26] [EDIT MENU] Mengedit menu dengan ID: S001, Nama: Citato
+[2026-02-01 23:12:29] [EDIT MENU] Mengedit menu dengan ID: S002, Nama: Kacang Garuda
+[2026-02-01 23:12:37] [EDIT MENU] Mengedit menu dengan ID: S003, Nama: Kuaci
+[2026-02-01 23:18:33] [EDIT MENU] Mengedit menu dengan ID: S001, Nama: Citato
+[2026-02-01 23:18:37] [EDIT MENU] Mengedit menu dengan ID: S002, Nama: Kacang Garuda
+[2026-02-01 23:18:45] [EDIT MENU] Mengedit menu dengan ID: S003, Nama: Kuaci
+[2026-02-01 23:20:00] [TAMBAH MENU] Menambahkan menu dengan ID: F004, Nama: Nasi Kukus
+[2026-02-01 23:20:30] [EDIT MENU] Mengedit menu dengan ID: F001, Nama: Nasi Goreng
+[2026-02-01 23:20:34] [EDIT MENU] Mengedit menu dengan ID: F004, Nama: Nasi Kukus
+[2026-02-01 23:36:53] [TAMBAH PESANAN] Menambahkan pesanan dengan ID: ORD-20260201-5399, Pelanggan: Dwi, Meja: 2, Total: Rp 35,000
+[2026-02-01 23:38:55] [EDIT PESANAN] Mengedit pesanan dengan ID: ORD-20260201-5399, Status berubah dari BELUM_BAYAR menjadi DIBATALKAN
+[2026-02-01 23:40:11] [HAPUS PESANAN] Menghapus pesanan dengan ID: ORD-20260201-9000, Pelanggan: Ased
